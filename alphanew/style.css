@@ -1,0 +1,31 @@
+/*
+Theme Name: Alphan
+Theme URL: http://codermsiit.com/
+Author: Sabir
+Author URL: http://codermsiit.com/
+Description: This is a HyperMinimal Theme
+Version: 1.0
+License: GNU General Public License v2 or Later
+License URL: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blog, education
+Text Domain: alphan
+*/
+
+.dashicons {
+	color: #ccc;
+	font-size: 80px;
+}
+
+.author-section .author-img img {
+	border-radius: 50%;
+}
+.author-section {
+	padding: 20px;
+	border: 1px solid #ccc;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.post-tag-title {
+	margin: 20px 0;
+}
